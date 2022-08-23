@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "dcffaecbec4124475490",
+    "revision": "4cdcc6d5c5dd1f2e3393",
     "url": "/react-list.git/static/css/main.07c63e86.chunk.css"
   },
   {
-    "revision": "dcffaecbec4124475490",
-    "url": "/react-list.git/static/js/main.dcffaecb.chunk.js"
+    "revision": "4cdcc6d5c5dd1f2e3393",
+    "url": "/react-list.git/static/js/main.4cdcc6d5.chunk.js"
   },
   {
     "revision": "2dcb266682758070661d",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/react-list.git/static/js/runtime~main.82b6ecd8.js"
   },
   {
-    "revision": "d54dcb92095c9459b1f435ac48cde8f6",
+    "revision": "e077c991ebfe2d77651107091f511a40",
     "url": "/react-list.git/index.html"
   }
 ];
