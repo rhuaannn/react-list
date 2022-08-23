@@ -1,13 +1,13 @@
 {
-  "main.css": "/react-list/static/css/main.07c63e86.chunk.css",
-  "main.js": "/react-list/static/js/main.4cdcc6d5.chunk.js",
-  "main.js.map": "/react-list/static/js/main.4cdcc6d5.chunk.js.map",
-  "static/js/1.2dcb2666.chunk.js": "/react-list/static/js/1.2dcb2666.chunk.js",
-  "static/js/1.2dcb2666.chunk.js.map": "/react-list/static/js/1.2dcb2666.chunk.js.map",
-  "runtime~main.js": "/react-list/static/js/runtime~main.1f2ccfac.js",
-  "runtime~main.js.map": "/react-list/static/js/runtime~main.1f2ccfac.js.map",
-  "static/css/main.07c63e86.chunk.css.map": "/react-list/static/css/main.07c63e86.chunk.css.map",
-  "index.html": "/react-list/index.html",
-  "precache-manifest.ea08488cf4ce6bc01ac6b10cad8855cc.js": "/react-list/precache-manifest.ea08488cf4ce6bc01ac6b10cad8855cc.js",
-  "service-worker.js": "/react-list/service-worker.js"
+  "main.css": "/react-list.git/static/css/main.07c63e86.chunk.css",
+  "main.js": "/react-list.git/static/js/main.4cdcc6d5.chunk.js",
+  "main.js.map": "/react-list.git/static/js/main.4cdcc6d5.chunk.js.map",
+  "static/js/1.2dcb2666.chunk.js": "/react-list.git/static/js/1.2dcb2666.chunk.js",
+  "static/js/1.2dcb2666.chunk.js.map": "/react-list.git/static/js/1.2dcb2666.chunk.js.map",
+  "runtime~main.js": "/react-list.git/static/js/runtime~main.82b6ecd8.js",
+  "runtime~main.js.map": "/react-list.git/static/js/runtime~main.82b6ecd8.js.map",
+  "static/css/main.07c63e86.chunk.css.map": "/react-list.git/static/css/main.07c63e86.chunk.css.map",
+  "index.html": "/react-list.git/index.html",
+  "precache-manifest.0f3b4a785cc688b684109cee33dc0917.js": "/react-list.git/precache-manifest.0f3b4a785cc688b684109cee33dc0917.js",
+  "service-worker.js": "/react-list.git/service-worker.js"
 }
