@@ -1,8 +1,7 @@
 import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { v4 as uuidv4 } from "uuid";
-import { BrowserRouter as Router, Route,Routes } from "react-router-dom";
-
+import { BrowserRouter as Router, HashRouter, Route,Routes } from "react-router-dom";
 import Header from "./components/Header";
 import Tasks from "./components/Tasks";
 import AddTask from "./components/AddTask";
@@ -55,10 +54,10 @@ const App = () => {
 	};
 
 	return (
-		<Router>
+		<HashRouter>
 			<div className="container">
 				<Header />
-				<Route
+				<HashRouter
 					path="/"
 					exact
 					render={() => (
@@ -72,9 +71,9 @@ const App = () => {
 						</>
 					)}
 				/>
-				<Route path="/:taskTitle" exact component={TaskDetails} />
+				<HashRouter path="/:taskTitle" exact component={TaskDetails} />
 			</div>
-		</Router>
+		</HashRouter>
 	);
 };
 
